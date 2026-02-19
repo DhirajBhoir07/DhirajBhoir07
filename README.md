@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**DhirajBhoir07/DhirajBhoir07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Dhiraj, a Software Developer with strong hands-on experience in **Java, Spring, Spring Boot, AngularJS**, and **MySQL**, building scalable and user-focused web applications.
 
-Here are some ideas to get you started:
+<p>I enjoy solving real-world engineering challenges and continuously improving my skills by staying up to date with modern web technologies. With a strong interest in both frontend and backend development, I focus on creating clean user interfaces and efficient backend APIs, and I’m always excited to collaborate, learn, and contribute to impactful projects.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📦 Toolbox
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,tailwind,ts,react,angular" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,mongodb,mysql,postgresql,postman,aws,docker" />  
+</p>
+
+## ⚙️ GitHub Analytics
+
+<div>
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=DhirajBhoir07&show_icons=true&theme=algolia&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DhirajBhoir07&layout=compact&langs_count=8&theme=algolia"/>
+</div>
+
+
+## 📫 Contact
+
+For a quick response, DM me on [LinkedIn](https://linkedin.com/in/dhirajbhoir).
