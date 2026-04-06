@@ -8,7 +8,7 @@ I am Dhiraj, a Software Developer with strong hands-on experience in **Java, Spr
 ## 📦 Toolbox
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,html,css,tailwind,ts,react,angular" />
+  <img src="https://skillicons.dev/icons?i=java,flutter,js,html,css,tailwind,ts,react,angular" />
   <br>
   <img src="https://skillicons.dev/icons?i=spring,nodejs,mongodb,mysql,postgresql,postman,aws,docker" />  
 </p>
